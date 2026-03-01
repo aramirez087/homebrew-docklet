@@ -1,6 +1,6 @@
 cask "docklet" do
-  version "1.0.32"
-  sha256 "f054f95914bf0471fea588ad84c89f6e14d89e4c46c54ba88f569d8c7c8a585f"
+  version "1.0.33"
+  sha256 "8dbdcf636f10e85ce12109af667f36085f6e8c06c66ebc6b5d71336c6514ea25"
 
   url "https://dl.getdocklet.app/Docklet.dmg"
   name "Docklet"
